@@ -43,8 +43,8 @@ Hi 👋, I am **Oatse** an Informatics student with a strong foundation in techn
 <br>
 <img align="right" width="41%" src="https://media1.tenor.com/m/L0pi1J8YNy4AAAAd/kiana-kaslana-honkai-smug.gif"/>
 
-  <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Oatse&theme=shades-of-purple&show_icons=true&title_color=379df8?&text_color=ffffff&text_bold=false"></a>
-  <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Oatse&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D&text_color=ffffff&ring=987be4&fire=ff3068&sideNums=379df8"></a>
+  <a href="https://github.com/Oatse"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Oatse&theme=shades-of-purple&show_icons=true&title_color=379df8?&text_color=ffffff&text_bold=false"></a>
+  <a href="https://github.com/Oatse"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Oatse&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D&text_color=ffffff&ring=987be4&fire=ff3068&sideNums=379df8"></a>
 <br>
 
 ## 📘 My top open source projects

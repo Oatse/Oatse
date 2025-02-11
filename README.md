@@ -10,7 +10,7 @@
 
 <p>
   
-Hi 👋, I am **Oatse** an Informatics student with a strong foundation in technology and a passion for UI/UX Design., CMO at [SmarTer Education](https://www.linkedin.com/company/smarter-learn/) and UI/UX Designer at [TAX Center Gunadarma](https://www.linkedin.com/company/tax-center-gunadarma/) . I specialise in UI Design, Design Graphic, Illustration, and Frontend. I love to network, join new communities and add value ✨
+Hi 👋, I am **Oatse** an Informatics student with a strong foundation in technology and a passion for UI/UX Design and Frontend, CMO at [SmarTer Education](https://www.linkedin.com/company/smarter-learn/) and UI/UX Designer at [TAX Center Gunadarma](https://www.linkedin.com/company/tax-center-gunadarma/) . I specialise in UI Design, Design Graphic, Illustration, and Frontend. I love to network, join new communities and add value ✨
 
 <div>
 <details>

@@ -1,3 +1,7 @@
+## Hello Folks! <img src="https://media.tenor.com/ICc4MAfo59wAAAAi/kiana-kiana-wave.gif" width="30" height="30"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOatse"><img align = "right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOatse&labelColor=%23f5f5f5&countColor=%232ccce4" /></a>
+<p align="center"></p>
+
+
 <a href=""><img src="https://media1.tenor.com/m/FLC8aBNPYYwAAAAd/kiana-kaslana-honkai-impact-3rd.gif" width="100%" height="auto"/></a>
 <p align="center">
 </p>

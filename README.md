@@ -44,8 +44,7 @@ Hi 👋, I am **Oatse** an Informatics student with a strong foundation in techn
 
 
 ## 🔥 Github Stats
-<br>
-<img align="right" width="41%" src="https://media1.tenor.com/m/L0pi1J8YNy4AAAAd/kiana-kaslana-honkai-smug.gif"/>
+
 
 
 <br>

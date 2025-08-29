@@ -42,11 +42,6 @@ Hi 👋, I am **Oatse** an Informatics student with a strong foundation in techn
 </div>
 -->
 
-
-## 🔥 Github Stats
-
-
-
 <br>
 
 ## 📘 My top open source projects
